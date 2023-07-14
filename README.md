@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishal Gupta</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
- 👀 I’m interested in computer programming 
- 🌱 I’m currently learning C++,DSA And Flutter 
+
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/vishal-gupta-3b8998229/ </h3>
 <p align="left">
